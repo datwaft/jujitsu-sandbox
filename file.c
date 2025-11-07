@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello, World!\n");
+  char *subject = "World";
+  printf("Hello, %s!\n", subject);
   return 0;
 }
