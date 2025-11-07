@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-  char *subject = "World";
+  char *subject = "Universe";
   printf("Hello, %s!\n", subject);
   return EXIT_SUCCESS;
 }
